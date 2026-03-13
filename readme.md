@@ -2,6 +2,7 @@
 opengl相关
 
 本地环境中使用的是OpenGL 4.3
+执行环境初始化：./initialize.sh
 
 #### demo
 示例与学习
@@ -23,4 +24,12 @@ imgui库
 #### stb
 stb库
 仓库链接：https://github.com/nothings/stb
+
+#### 基础库
+- glfw
+创建窗口，一般直接安装glfw库
+- glm
+数学库，一般直接安装glm库
+- assimp
+模型加载，一般直接安装assimp库
 
